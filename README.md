@@ -9,7 +9,7 @@ This API provides support for Pat's Salmon Cookie Stand application. A number of
 
 ### ERD
 
-![er](./Image/salomn.jpg)
+![er](./cookie-stand-api/Image/salomn.jpg)
 
 # Deployed API Swagger  [Swagger](https://cookiestandapi20231005154615.azurewebsites.net/docs/index.html)
 ### API Endpoints
