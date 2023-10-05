@@ -5,13 +5,13 @@
 
 This API provides support for Pat's Salmon Cookie Stand application. A number of endpoints are provided to enable you to manage cookie stands, including creating, reading, updating, and deleting the data associated with them. To store and retrieve cookie stand information, the API uses ASP.NET Core and interacts with a database.
 
-### Deployed API Swagger Documentation [Click Here](https://cookiestandapi20231005154615.azurewebsites.net/docs/index.html)
+
 
 ### ERD
 
 ![er](./Image/salomn.PNG)
 
-
+# Deployed API Swagger  [Swagger](https://cookiestandapi20231005154615.azurewebsites.net/docs/index.html)
 ### API Endpoints
 
 #### Create a Cookie Stand
