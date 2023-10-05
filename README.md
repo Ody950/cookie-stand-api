@@ -9,7 +9,7 @@ This API provides support for Pat's Salmon Cookie Stand application. A number of
 
 ### ERD
 
-![er](./cookie-stand-api/Image/salomn.PNG)
+![er](./Image/salomn.PNG)
 
 
 ### API Endpoints
